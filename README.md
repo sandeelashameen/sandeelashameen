@@ -1,8 +1,7 @@
 <h1 align="center">Hey, This is Sandeela</h1>
 <h3 align="center">A passionate Computer Science undergraduate.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/sandeelashameen/sandeelashameen/assets/95028805/4246029a-4e41-4f3b-8a97-0595b3d05828)
-">
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1364029%2Fscreenshots%2F16093268%2Fmedia%2F68e82a7fb4904614a9066d6b540c14b2.gif&tbnid=VS8-fxCkM29JmM&vet=12ahUKEwiQl_f71eKDAxUzWaQEHUO7BokQMyggegUIARC6AQ..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&docid=ZxkZXuCs4TZ-3M&w=1600&h=1200&q=animated%20coding%20gif%20of%20a%20girl&hl=en&ved=2ahUKEwiQl_f71eKDAxUzWaQEHUO7BokQMyggegUIARC6AQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeelashameen&label=Profile%20views&color=0e75b6&style=flat" alt="sandeelashameen" /> </p>
 
